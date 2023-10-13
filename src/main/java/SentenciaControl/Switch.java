@@ -10,7 +10,7 @@ package SentenciaControl;
  */
 public class Switch {
     public static void main(String[] args) {
-        int dayOfWeek = 4;
+        int dayOfWeek =2;
         String dayName;
 
         switch (dayOfWeek) {

@@ -21,9 +21,6 @@ public class OperadorBinario {
         boolean x = true, y = false;
         System.out.println(x && y);   // AND lógico
         System.out.println(x || y);   // OR lógico
-        int c = 12, d = 9;
-        System.out.println(c & d);    // AND a nivel de bits
-        System.out.println(c | d);    // OR a nivel de bits
-        System.out.println(c ^ d);    // XOR a nivel de bits
+
     }
 }   

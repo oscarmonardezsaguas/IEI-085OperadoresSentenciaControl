@@ -15,7 +15,7 @@ public class OperadorUnario {
         System.out.println(++num);    // Incremento
         System.out.println(--num);    // Decremento
         boolean isTrue = true;
-        System.out.println(isTrue);  // Negación lógica
+        System.out.println(isTrue);  // si lógico
         System.out.println(!isTrue);  // Negación lógica
     }
 }
